@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292490670043",
+    "project_id": "baboon-6e408",
+    "storage_bucket": "baboon-6e408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292490670043:android:58c7de427976962a7a01fe",
+        "android_client_info": {
+          "package_name": "com.swmansion.gesturehandler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292490670043-blaocpicnakogu60ov8bd98i28k9b881.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCda6xh8vfTdVCUcs13XF4-M5izloIv61s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292490670043-blaocpicnakogu60ov8bd98i28k9b881.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
